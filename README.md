@@ -1,6 +1,6 @@
 # Jersi Hub Co. Website
 
-Click here to view the website: 
+Click here to view the website: https://nurafiqahmalic.github.io/Jersi-Hub-Co./
 
 ## Description
 
